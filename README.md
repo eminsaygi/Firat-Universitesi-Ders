@@ -1,5 +1,9 @@
 ## :zap: Fırat Üniversitesi Çıkmış Sorular ve Ders Notları
-<br><b>Blog:</b> https://www.eminsaygi.com <br><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
+------------------------------------------------------------------------------------------
+><br><b>Blog:</b> https://www.eminsaygi.com <br>
+
+><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
+------------------------------------------------------------------------------------------
 
 ------------------------------------------------------------------------------------------
 > Bu repo sürekli güncellenecektir. Boş klasörler en kısa zamanda doldurulacaktır.
