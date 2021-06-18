@@ -7,6 +7,7 @@
 
 ------------------------------------------------------------------------------------------
 > Bu repo sürekli güncellenecektir. Boş klasörler en kısa zamanda doldurulacaktır.
+
 > Çıkmış soruları yönetmelik gereği sildim.İstek dahilinde mail üzerinden ulaşabilirsiniz: emin2470@gmail.com
 ------------------------------------------------------------------------------------------
 
