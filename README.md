@@ -136,4 +136,3 @@
 - 4.2 Dersler
 
 ------------------------------------------------------------------------------------------
-> Bu repo sürekli güncellenecektir. Boş klasörler en kısa zamanda doldurulacaktır.
