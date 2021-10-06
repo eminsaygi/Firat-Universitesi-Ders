@@ -1,6 +1,6 @@
 ## :zap: Fırat Üniversitesi Çıkmış Sorular ve Ders Notları
 ------------------------------------------------------------------------------------------
-><b>Blog:</b> https://www.eminsaygi.com
+><b>Blog:</b> https://www.eminsaygi.tech
 
 ><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
 ------------------------------------------------------------------------------------------
