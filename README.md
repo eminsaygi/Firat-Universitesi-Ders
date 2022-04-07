@@ -1,6 +1,6 @@
 ## :zap: Fırat Üniversitesi Çıkmış Sorular ve Ders Notları
 ------------------------------------------------------------------------------------------
-><b>Blog:</b> https://www.eminsaygi.tech
+><b>Blog:</b> https://eminsaygi.github.io
 
 ><b> Linkedin:</b> https://www.linkedin.com/in/eminsaygı
 ------------------------------------------------------------------------------------------
@@ -8,7 +8,7 @@
 ------------------------------------------------------------------------------------------
 > Bu repo sürekli güncellenecektir. Boş klasörler en kısa zamanda doldurulacaktır.
 
-> Çıkmış soruları yönetmelik gereği sildim.İstek dahilinde mail üzerinden ulaşabilirsiniz: emin2470@gmail.com
+> Telif vb sorunlar için mail üzerinden ulaşabilirsiniz: emin2470@gmail.com
 ------------------------------------------------------------------------------------------
 
 ###   🌩 İçindekiler
