@@ -1,0 +1,24 @@
+import random
+
+try:
+    f=open("hasilat.txt","r")
+    s=f.readlines()
+    toplam=dict()
+
+    for i in s:
+      satir=i.split("-")
+      ay=satir[0].split("/")[1]
+      if toplam.has_key(ay):
+        toplam[str(ay)]+=int(satir[1].split(":")[1])
+      else:
+        toplam[str(ay)]=int(satir[1].split(":")[1])
+
+    print toplam
+
+    print sum(toplam.values())
+except Exception as e:
+    print "hata", e.__class__
+
+finally:
+    f.close()
+    

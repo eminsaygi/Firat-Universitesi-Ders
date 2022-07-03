@@ -1,0 +1,20 @@
+a=10
+b=2
+s=""
+tam=0
+ondalik=""
+while(a>=b):
+  tam+=1
+  a=a-b
+
+for i in range(5):
+  kesir=0
+  a*=10
+  while(a>b):
+    kesir+=1
+    a=a-b
+  ondalik+=str(kesir)
+ 
+s+=str(tam)+"."+ondalik
+
+print s

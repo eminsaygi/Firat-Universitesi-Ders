@@ -1,0 +1,8 @@
+import random
+f=open("hasilat.txt","w")
+s=[]
+for i in range(10):
+  f.write("2019/"+str(random.randint(1,12))+"-hasilat:"+str(random.randint(1000,4000)))
+  f.write("\n")
+
+f.close()
