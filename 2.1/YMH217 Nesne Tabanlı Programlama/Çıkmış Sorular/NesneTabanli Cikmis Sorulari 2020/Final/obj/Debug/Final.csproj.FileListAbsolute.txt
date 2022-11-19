@@ -1,0 +1,7 @@
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\bin\Debug\Final.exe.config
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\bin\Debug\Final.exe
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\bin\Debug\Final.pdb
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\obj\Debug\Final.csprojAssemblyReference.cache
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\obj\Debug\Final.exe
+D:\2020-2021 Tüm Dersler ve Videolari\Nesne Tabanlı Programlama\NesneTabanli Cikmis Sorulari 2020\Final\obj\Debug\Final.pdb
